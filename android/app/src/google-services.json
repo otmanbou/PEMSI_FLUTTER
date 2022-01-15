@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62401426153",
+    "project_id": "pemsimiage5",
+    "storage_bucket": "pemsimiage5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62401426153:android:be6ebd88418a804dc8b678",
+        "android_client_info": {
+          "package_name": "ma.emsi.pfaflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62401426153-el9b8isu9298sh72ndo7j7u2imq4c017.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJM99fYANgCD1LTEnqJ3tq8y8henBxfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62401426153-el9b8isu9298sh72ndo7j7u2imq4c017.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
